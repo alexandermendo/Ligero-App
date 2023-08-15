@@ -1,0 +1,138 @@
+/*#region [rgba(0, 205, 30, 0.1)] Contenedor Image*/
+.container-form-contacto {
+  background: rgba(0, 0, 0, 0.5);
+  background-image: url("./assets/registrate.jpg"),
+    radial-gradient(transparent, black);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: darken;
+  position: relative;
+  padding-top: 5%;
+  padding-bottom: 10%;
+  height: 100vh;
+}
+
+.ligero-container {
+  position: absolute;
+  top: 25%;
+  left: 20%;
+  right: 40%;
+}
+/*#endregion*/
+
+/* #region [rgba (200, 0, 3, 0.4)]  Menú */
+.ligero-text-reg {
+  justify-content: center;
+  position: relative;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 5%;
+  height: 150px;
+  width: 100%;
+}
+
+h3.ligero-text-tittle {
+  color: white;
+  font-family: "ITC Avant Garde Gothic Std";
+  font-size: 80px;
+  text-align: justify;
+  text-transform: lowercase;
+  width: max-content;
+}
+
+p.ligero-text-tittle {
+  color: white;
+  font-family: "ITC Avant Garde Gothic Std";
+  font-size: 20px;
+  text-align: justify;
+  text-transform: lowercase;
+  width: max-content;
+}
+/*#endregion*/
+
+/*#region [rgba(0, 50, 30, 0.5)] Contenedor Button*/
+.ligero-contn {
+  position: relative;
+  top: 60%;
+  left: 0%;
+}
+/*#endregion*/
+
+/* #region [rgba (150, 2, 50, 0.4)]  Botón Registro Usuario */
+.ligero-btn-con {
+  position: absolute;
+  top: 50%;
+  left: 0%;
+  width: 90%;
+}
+
+.ligero-btn-reg {
+  background-color: #cd272b;
+  border: 7px solid #cd272b;
+  border-radius: 5px;
+  color: aliceblue;
+  font-family: "ITC Avant Garde Gothic Std";
+  font-size: 18px;
+  font-weight: bold;
+  width: 90%;
+  position: relative;
+  margin-left: 5%;
+  text-transform: lowercase;
+  transition: all 0.3s;
+}
+
+.ligero-btn-reg:hover {
+  background-color: #7EBEDF;
+  border: 7px solid #7EBEDF;
+  border-radius: 5px;
+  color: aliceblue;
+  font-family: "ITC Avant Garde Gothic Std";
+  font-size: 18px;
+  font-weight: bold;
+  width: 90%;
+  position: relative;
+  margin-left: 5%;
+  text-transform: lowercase;
+  transition: all 0.3s;
+}
+/*#endregion*/
+
+/* #region [rgba (20, 70, 90, 0.4)]  Botón Registro Usuario Empresa */
+.ligero-btn-con-emp {
+  position: absolute;
+  top: 50%;
+  left: 100%;
+  width: 90%;
+}
+
+.ligero-btn-reg-emp {
+  background-color: #cd272b;
+  border: 7px solid #cd272b;
+  border-radius: 5px;
+  color: aliceblue;
+  font-family: "ITC Avant Garde Gothic Std";
+  font-size: 18px;
+  font-weight: bold;
+  width: 90%;
+  position: relative;
+  margin-left: 5%;
+  margin-right: 5%;
+  text-transform: lowercase;
+}
+
+.ligero-btn-reg-emp:hover {
+  background-color: #7EBEDF;
+  border: 7px solid #7EBEDF;
+  border-radius: 5px;
+  color: aliceblue;
+  font-family: "ITC Avant Garde Gothic Std";
+  font-size: 18px;
+  font-weight: bold;
+  width: 90%;
+  position: relative;
+  margin-left: 5%;
+  text-transform: lowercase;
+  transition: all 0.3s;
+}
+/*#endregion*/

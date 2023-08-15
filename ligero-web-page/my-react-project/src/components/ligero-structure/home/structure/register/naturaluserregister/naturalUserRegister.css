@@ -1,0 +1,115 @@
+.container-form-ligero {
+  background: rgba(0, 0, 0, 0.5);
+  background-image: url("./assets/registrate.jpg"),
+    radial-gradient(transparent, black);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: darken;
+  height: 100vh;
+  padding-top: 5%;
+  padding-bottom: 10%;
+  position: relative;
+}
+
+.ligero-container-natural {
+  background-color: transparent;
+  border: solid rgb(9, 9, 9) 1px;
+  border-radius: 10px;
+  height: auto;
+  margin-left: 25%;
+  margin-top: 2%;
+  position: absolute;
+  top: 5%;
+  width: 50%;
+}
+
+.text-reg-lig {
+  margin-left: 5%;
+  margin-top: 2%;
+}
+
+h3.tit-text-reg-lig {
+  color: white;
+  font-family: "ITC Avant Garde Gothic Std";
+  font-size: 40px;
+  text-transform: lowercase;
+}
+
+p.tit-text-reg-lig {
+  color: white;
+  font-family: "ITC Avant Garde Gothic Std";
+  font-size: 20px;
+  text-transform: lowercase;
+}
+
+.ligero-cont-pad {
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom: 5%;
+}
+
+.ligero-formul-con {
+  padding-left: 1%;
+  padding-right: 1%;
+}
+
+.ligero-texto-nom-cont {
+  color: white;
+  font-family: "ITC Avant Garde Gothic Std";
+  text-transform: lowercase;
+}
+
+.ligero-formul-con-1 {
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-top: 2%;
+}
+
+.ligero-formul-con-2 {
+  padding-left: 1%;
+  padding-right: 1%;
+}
+
+.ligero-formul-con-3 {
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-top: 2%;
+}
+
+.ligero-formul-con-4 {
+  padding-left: 1%;
+  padding-right: 1%;
+}
+
+.btn-reg-ligero {
+  background-color: #F52E3A;
+  border: 7px solid #F52E3A;
+  border-radius: 5px;
+  color: aliceblue;
+  font-family: "ITC Avant Garde Gothic Std";
+  font-size: 18px;
+  font-weight: bold;
+  width: 90%;
+  margin-left: 6%;
+  margin-top: 0%;
+  margin-bottom: 5%;
+  text-transform: lowercase;
+  transition: all 0.3s;
+}
+
+.btn-reg-ligero:hover {
+  background-color: #7EBEDF;
+  border: 7px solid #7EBEDF;
+  border-radius: 5px;
+  color: aliceblue;
+  font-family: "ITC Avant Garde Gothic Std";
+  font-size: 18px;
+  font-weight: bold;
+  width: 90%;
+  margin-left: 6%;
+  margin-top: 0%;
+  margin-bottom: 5%;
+  text-transform: lowercase;
+  transition: all 0.3s;
+}

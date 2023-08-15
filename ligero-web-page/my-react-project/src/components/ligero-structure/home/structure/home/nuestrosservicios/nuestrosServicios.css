@@ -1,0 +1,110 @@
+/* #region [rgba(0, 205, 30, 0.1)] Ligero Container */
+.ligero-nuestro {
+  padding-top: 0%;
+}
+/* #endregion */
+
+/* #region [rgba(200, 20, 30, 0.1)] Circulo */
+.ligero-round {
+  background-color: #f52b37;
+  border-radius: 26px;
+  position: absolute;
+  padding-top: 1%;
+  margin-top: 1%;
+  margin-left: 5%;
+  width: 1%;
+}
+/*#endregion*/
+
+/* #region [rgba(60, 25, 250, 0.1)] Contenedor Texto */
+.ligero-our-services {
+  position: relative;
+  left: 7%;
+  top: 35%;
+}
+
+h3.ligero-our-services {
+  font-family: "ITC Avant Garde Gothic Std";
+  font-size: 40px;
+  text-transform: lowercase;
+}
+/*#endregion*/
+
+/* #region [rgba (200, 0, 3, 0.4)]  Card Redes Sociales */
+.ligero-servicio-net {
+  padding-left: 5%;
+  padding-top: 0%;
+}
+
+.ligero-card-facebook {
+  background-color: #38529a;
+  border-radius: 26px;
+  position: relative;
+  padding-top: 2%;
+  margin-top: 2%;
+  margin-left: 15%;
+  width: 32%;
+}
+
+.img-logo-facebook {
+  margin-bottom: 15%;
+  margin-top: 15%;
+  padding-left: 15%;
+}
+
+.ligero-card-twitter {
+  background-color: #74cff7;
+  border-radius: 26px;
+  position: relative;
+  padding-top: 2%;
+  margin-top: 2%;
+  margin-left: 15%;
+  width: 32%;
+}
+
+.img-logo-twitter {
+  margin-bottom: 15%;
+  margin-top: 15%;
+  margin-left: 10%;
+  padding: 10%;
+}
+
+.ligero-card-instagram {
+  background: radial-gradient(
+    circle at 30% 107%,
+    #fdf497 0%,
+    #fd5949 45%,
+    #d6249f 60%,
+    #285aeb 100%
+  );
+  border-radius: 26px;
+  position: relative;
+  padding-top: 2%;
+  margin-top: 2%;
+  margin-left: 15%;
+  width: 32%;
+}
+
+.img-logo-instagram {
+  margin-bottom: 15%;
+  margin-top: 15%;
+  margin-left: 15%;
+}
+
+.ligero-card-tiktok {
+  background-color: #000000;
+  border-radius: 26px;
+  position: relative;
+  padding-top: 2%;
+  margin-top: 2%;
+  margin-left: 15%;
+  width: 32%;
+}
+
+.img-logo-tiktok {
+  margin-bottom: 15%;
+  margin-top: 15%;
+  margin-left: 15%;
+  padding: 4%;
+}
+/*#endregion*/

@@ -1,0 +1,28 @@
+.ligero-container-usuario {
+  background-color: #af2423;
+  padding: 0.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.ligero-container-usuario h1 {
+  color: white;
+  font-family: "Calibri";
+}
+
+.menu-ligero-navbar-usu-reg {
+  font-family: "Calibri";
+  color: white;
+  text-decoration: none;
+  margin-right: 1rem;
+  text-transform: uppercase;
+}
+
+.usuario-n-l {
+  color: white;
+  font-family: "ITC Avant Garde Gothic Std";
+  font-size: 12px;
+  text-decoration: none;
+  text-transform: uppercase;
+}

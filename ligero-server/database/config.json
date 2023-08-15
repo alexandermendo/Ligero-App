@@ -1,0 +1,7 @@
+{
+  "username": "root",
+  "password": "jamp1987+",
+  "database": "ligero",
+  "host": "localhost",
+  "dialect": "mysql"
+}
